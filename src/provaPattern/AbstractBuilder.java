@@ -2,6 +2,11 @@ package provaPattern;
 
 import java.util.List;
 
+/** 
+ * 
+ * 
+ * @see A existência desta classe é unicamente para tentar garantir a generalização do método start de build, de forma que retorna esta classe no método static start em BUILDER.
+ */
 public class AbstractBuilder implements BuilderIF {
 	private String nome;
 	private String codigoUnico;

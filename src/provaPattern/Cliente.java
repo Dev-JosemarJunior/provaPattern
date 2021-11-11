@@ -1,4 +1,4 @@
-package provaPattern;
+	package provaPattern;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.ArrayList;
